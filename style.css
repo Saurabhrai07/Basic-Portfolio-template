@@ -10,10 +10,13 @@ body {
     font-family: Arial, sans-serif;
     color: #333;
 }
-
+img{
+    width: 1000px;
+    height: 500px;
+}
 /* Style the header */
 header {
-    background-color: #007BFF;
+    background-color: rgba(194, 86, 192, 0.901);
     color: #fff;
     text-align: center;
     padding: 20px;
